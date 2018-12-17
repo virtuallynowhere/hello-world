@@ -1,2 +1,3 @@
 # hello-world
-Start the adventure
+
+In preparation to real coding, this needs to be really well written first.
